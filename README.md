@@ -26,7 +26,7 @@ Quick Start
 -----------
 
 ```shell
-$ git clone https://github.com/r-park/todo-react-redux.git
+$ git clone https://github.com/engprodigy/todo-react-redux.git
 $ cd todo-react-redux
 $ npm install
 $ npm start
